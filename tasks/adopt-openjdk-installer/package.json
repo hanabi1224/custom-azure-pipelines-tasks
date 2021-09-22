@@ -15,7 +15,7 @@
     "packext": "tsc && tfx extension create --manifest-globs adopt-openjdk-installer.json --rev-version"
   },
   "dependencies": {
-    "@types/node": "^10.17.54",
+    "@types/node": "^16.9.6",
     "@types/q": "^1.5.4",
     "azure-pipelines-task-lib": "^3.1.0",
     "azure-pipelines-tool-lib": "^1.0.1",
